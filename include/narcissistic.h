@@ -6,7 +6,7 @@
 class narcissisticHelper
 {
     public:
-        
+        static bool isNarcissisticNumber(unsigned p_number);
     private:
 };
 
